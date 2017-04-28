@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Protoedit.views.TypeEditor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="600">
+    <DockPanel LastChildFill="True">
+
+        <Label DockPanel.Dock="Top" Content="Type Editor" Style="{StaticResource H1}" VerticalAlignment="Top" HorizontalAlignment="Stretch" />
+         
+
+        <DockPanel DockPanel.Dock="Bottom" HorizontalAlignment="Stretch">
+            <Button DockPanel.Dock="Right" HorizontalAlignment="Right" Content="+" Width="40" Height="30" Margin="10" Click="AddTypeConverterClick"></Button>
+        </DockPanel>
+        <ScrollViewer HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <StackPanel x:Name="spAttributes" Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+        </ScrollViewer>
+    </DockPanel>
+</UserControl>

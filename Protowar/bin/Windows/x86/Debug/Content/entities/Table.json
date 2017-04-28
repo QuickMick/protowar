@@ -1,0 +1,60 @@
+﻿{
+	"Type":"",
+	"Classes":[],
+	
+	"Attributes":[{
+	"Type":"HealthAttribute",
+	"health":100
+	}],
+	"Behaviours":["inputBehavior","walkBehaviour"],
+	"Material":{
+		"Type":"SimpleTexturedMaterial",
+		"texture":"table"
+	},
+	"Mesh":{
+		"Type":"QuadMesh"
+		"density":"1",
+		"friction":"1",
+		"width":"10",
+		"height":"10"
+		},
+
+	"Children":[]
+}
+
+
+
+{
+	"Material":{
+		"Type":"SimpleTexturedMaterial",
+		"texture":"table"
+	},
+	"Mesh":{
+		"Type":"QuadMesh"
+		"width":"10",
+		"height":"10"
+		}
+}
+
+
+
+
+{
+	"$type":"Protobase.test, Protowar",
+	"name":"test",
+	"count":35,
+	"delta":34.5
+}
+
+{
+	"$type":"Protobase.test, Protowar",
+	"name":"test",
+	"count":35,
+	"delta":34.5,
+	"tx":{"$type":"Protobase.test, Protowar",
+		"name":"test",
+		"count":35,
+		"delta":34.5,
+		"tx":null
+		}
+}

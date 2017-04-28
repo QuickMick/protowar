@@ -1,0 +1,55 @@
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Font.spritefont
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\arrow.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\buttons.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\cursor.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\gradient.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\logo.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\popup.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\slider.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\socket.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Common\stick.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Materials\blank.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Materials\dots.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Materials\pavement.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Materials\squares.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Materials\waves.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Samples\alphabet.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Samples\car.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Samples\goo.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Samples\link.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Samples\object.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Samples\wheel.png
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Fonts\detailsFont.spritefont
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Fonts\detailsFont.xnb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Fonts\frameRateCounterFont.spritefont
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Fonts\frameRateCounterFont.xnb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Fonts\menufont.spritefont
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Content\Fonts\menufont.xnb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Farseer Samples.exe
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Farseer Samples.pdb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Farseer Physics.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\Farseer Physics.pdb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\obj\x86\Debug\Farseer Samples.csprojResolveAssemblyReference.cache
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\obj\x86\Debug\Farseer Samples.exe
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Farseer Samples\obj\x86\Debug\Farseer Samples.pdb

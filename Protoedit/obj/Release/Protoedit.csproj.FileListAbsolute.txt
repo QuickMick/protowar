@@ -1,0 +1,8 @@
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\Protoedit.csprojResolveAssemblyReference.cache
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\MainWindow.baml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\views\AttributeEditor.baml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\App.baml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\MainWindow.g.cs
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\views\AttributeEditor.g.cs
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\App.g.cs
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protoedit\obj\Release\Protoedit_MarkupCompile.cache

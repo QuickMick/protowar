@@ -1,0 +1,24 @@
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Content\Font.spritefont
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Content\Font.xnb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Protobase.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Protobase.pdb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\obj\Debug\Protobase.csprojResolveAssemblyReference.cache
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\obj\Debug\Protobase.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\obj\Debug\Protobase.pdb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Farseer Physics.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\MonoGame.Framework.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.XInput.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\Farseer Physics.pdb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Debug\MonoGame.Framework.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\obj\Debug\Protobase.Properties.Resources.resources
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\obj\Debug\Protobase.csproj.GenerateResource.Cache

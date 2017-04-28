@@ -1,0 +1,6 @@
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Release\Protobase.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Release\Protobase.pdb
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\obj\Release\Protobase.dll
+C:\Users\Mick\documents\visual studio 2012\Projects\Protowar\Protobase\obj\Release\Protobase.pdb
